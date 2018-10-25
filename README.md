@@ -1,4 +1,6 @@
 # Euboea
+[![Build Status](https://travis-ci.org/KrzysztofSzewczyk/Euboea.svg?branch=master)](https://travis-ci.org/KrzysztofSzewczyk/Euboea)
+
 Euboea is blazingly fast and small programming language **compiled** JIT **directly to machine code**.
 
 ## Philosophy
