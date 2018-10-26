@@ -1,7 +1,11 @@
 # Euboea
-[![Build Status](https://travis-ci.org/KrzysztofSzewczyk/Euboea.svg?branch=master)](https://travis-ci.org/KrzysztofSzewczyk/Euboea)
 
 Euboea is blazingly fast and small programming language **compiled** JIT **directly to machine code**.
+
+## Builds
+| Build             | Tests             |
+|-------------------|-------------------|
+| [![Build 1](https://travis-matrix-badges.herokuapp.com/repos/KrzysztofSzewczyk/Euboea/branches/master/1)](https://travis-ci.org/KrzysztofSzewczyk/Euboea) | [![Build 2](https://travis-matrix-badges.herokuapp.com/repos/KrzysztofSzewczyk/Euboea/branches/master/2)](https://travis-ci.org/KrzysztofSzewczyk/Euboea) |
 
 ## Philosophy
 Philosophy of Euboea includes following rules:
