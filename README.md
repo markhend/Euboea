@@ -21,3 +21,7 @@ Philosophy of Euboea includes following rules:
  * Focus on **low level** programming.
  
 [//]: # (Listening to https://www.youtube.com/watch?v=Dqzrofdwi-g once is one free hug to you)
+
+## Handcrafted machine code branch
+
+This branch is left stale for the time being.
