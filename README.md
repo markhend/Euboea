@@ -6,7 +6,8 @@ Euboea is blazingly fast and small programming language **compiled** JIT **direc
 
 | Build             | Tests             |
 |-------------------|-------------------|
-| [![Build 1](https://travis-matrix-badges.herokuapp.com/repos/KrzysztofSzewczyk/Euboea/branches/master/1)](https://travis-ci.org/KrzysztofSzewczyk/Euboea) <br> [![wercker status](https://app.wercker.com/status/eead1e3f0f850024dd70ee1f6fc65b5f/m/master "wercker status")](https://app.wercker.com/project/byKey/eead1e3f0f850024dd70ee1f6fc65b5f) | Test: [![Build 2](https://travis-matrix-badges.herokuapp.com/repos/KrzysztofSzewczyk/Euboea/branches/master/2)](https://travis-ci.org/KrzysztofSzewczyk/Euboea) <br> Cov: [![Build 3](https://travis-matrix-badges.herokuapp.com/repos/KrzysztofSzewczyk/Euboea/branches/master/3)](https://travis-ci.org/KrzysztofSzewczyk/Euboea) |
+| [![Build 1](https://travis-matrix-badges.herokuapp.com/repos/KrzysztofSzewczyk/Euboea/branches/master/1)](https://travis-ci.org/KrzysztofSzewczyk/Euboea) <br> [![wercker status](https://app.wercker.com/status/eead1e3f0f850024dd70ee1f6fc65b5f/m/master "wercker status")](https://app.wercker.com/project/byKey/eead1e3f0f850024dd70ee1f6fc65b5f) | Test build: [![Build 2](https://travis-matrix-badges.herokuapp.com/repos/KrzysztofSzewczyk/Euboea/branches/master/2)](https://travis-ci.org/KrzysztofSzewczyk/Euboea) <br> Cov build: [![Build 3](https://travis-matrix-badges.herokuapp.com/repos/KrzysztofSzewczyk/Euboea/branches/master/3)](https://travis-ci.org/KrzysztofSzewczyk/Euboea) <br> Coverage: [![Coverage
+status](https://codecov.io/gh/KrzysztofSzewczyk/Euboea/branch/master/graph/badge.svg)](https://codecov.io/github/KrzysztofSzewczyk/Euboea?branch=master) |
 
 ## Philosophy
 Philosophy of Euboea includes following rules:
