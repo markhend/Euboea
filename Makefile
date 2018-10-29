@@ -4,7 +4,7 @@ C = $(CC) $(CFLAGS)
 
 dasm.o: dasm.c
 	$(C) -o $@ -c $^
-euboea: euboea.o
+euboea: euboea.o dasm.o
 	$(C) -o $@ $^
 euboea.o: euboea.c
 	$(C) -o $@ -c $^
