@@ -1,6 +1,6 @@
 
 /* EUBOEA programming language interpreter */
-/* Author: Krzysztof Szewczyk, License: MIT */
+/* Author: Krzysztof "Palaiologos" Szewczyk, License: MIT */
 
 #define _BSD_SOURCE
 #include <sys/mman.h>
