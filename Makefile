@@ -1,5 +1,5 @@
 
-# TradeSunday
+# Euboea
 #
 # Copyright (C) Krzysztof Palaiologos Szewczyk, 2019.
 # License: MIT
